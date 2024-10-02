@@ -1,0 +1,9 @@
+# Bienvenido a mi sitio personal
+¡Hola! Soy [tu nombre], y este es mi sitio personal donde muestro mis proyectos y contenido personal.
+
+## Proyectos destacados
+- [Proyecto 1](enlace-proyecto-1)
+- [Proyecto 2](enlace-proyecto-2)
+
+## Sobre mí
+Me apasiona la tecnología y el desarrollo web. Aquí podrás ver mis trabajos y artículos.
